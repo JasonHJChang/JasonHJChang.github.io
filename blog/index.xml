@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Hello Im Jason</title>
-    <link>https://jasonhjchang.github.io/</link>
-    <description>Recent content on Hello Im Jason</description>
+    <title>Blogs on Hello Im Jason</title>
+    <link>https://jasonhjchang.github.io/blog/</link>
+    <description>Recent content in Blogs on Hello Im Jason</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 06 Oct 2023 01:57:40 +0800</lastBuildDate><atom:link href="https://jasonhjchang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 06 Oct 2023 01:57:40 +0800</lastBuildDate><atom:link href="https://jasonhjchang.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Flash</title>
       <link>https://jasonhjchang.github.io/blog/flash/</link>
@@ -23,16 +23,6 @@
       
       <guid>https://jasonhjchang.github.io/blog/options/</guid>
       <description>Options Volatility and Pricing</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://jasonhjchang.github.io/about/</link>
-      <pubDate>Thu, 05 Oct 2023 03:13:58 +0800</pubDate>
-      
-      <guid>https://jasonhjchang.github.io/about/</guid>
-      <description>Hell I&amp;rsquo;m Jason.
-List List 2 Dictionay Dic 123 bruh </description>
     </item>
     
   </channel>
