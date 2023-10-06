@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photographies on Hello Im Jason</title>
+    <link>https://jasonhjchang.github.io/photography/</link>
+    <description>Recent content in Photographies on Hello Im Jason</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Oct 2023 16:29:46 +0800</lastBuildDate><atom:link href="https://jasonhjchang.github.io/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Skateboard</title>
+      <link>https://jasonhjchang.github.io/photography/skateboard/</link>
+      <pubDate>Fri, 06 Oct 2023 16:29:46 +0800</pubDate>
+      
+      <guid>https://jasonhjchang.github.io/photography/skateboard/</guid>
+      <description>SkateBoard</description>
+    </item>
+    
+  </channel>
+</rss>
